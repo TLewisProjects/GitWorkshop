@@ -1,3 +1,4 @@
 git init - initialize repo
 git status - what is the status of all of the files in this repo
 git add <file> - tell git to start tracking the file
+git commit -a - tell git to save a new snapshot of the tracked files (-a = all files)
