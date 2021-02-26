@@ -1,0 +1,3 @@
+git init - initialize repo
+git status - what is the status of all of the files in this repo
+git add <file> - tell git to start tracking the file
