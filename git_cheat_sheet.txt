@@ -5,4 +5,5 @@ git commit -a - tell git to save a new snapshot of the tracked files (-a = all f
 git diff <file> - reveal the differences between current directory and repo
 git checkout main <commit_id> <file> - revert to repo version 
 git log -n <number of commits> - shows a log of all commits on these repo
- 
+git rm <FILE> - delete a file from the working directory. If you commit it removes it from the version but it is always stored in the repo 
+git mv <OLD NAME> <NEW NAME> - rename/move a file 
